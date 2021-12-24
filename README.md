@@ -1,5 +1,5 @@
 # LC_Python
-Python讲解...
+Python官网：https://www.python.org/
 ```
 优点：
 解释性语言
