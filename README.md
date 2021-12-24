@@ -1,6 +1,7 @@
 # LC_Python
 Python官网：https://www.python.org/
 ```
+Python基本就是一个'万金油'，很多企业都在使用。
 优点：
 解释性语言
 交互式语言(方便测试 比如：ipython...)
