@@ -1,5 +1,5 @@
 # LC_Python
-Python官网：https://www.python.org/
+人生苦短我用Python，Python官网：https://www.python.org/
 
 Python基本就是一个'万金油'，很多企业都在使用。Python里面一切皆对象。
 
