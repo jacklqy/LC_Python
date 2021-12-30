@@ -1,7 +1,8 @@
 # LC_Python
-人生苦短我用Python，Python官网：https://www.python.org/
-
-Python基本就是一个'万金油'，很多企业都在使用。Python里面一切皆对象。
+### 人生苦短我用Python,Python基本就是一个'万金油'
+ - Python官网：https://www.python.org/
+ - Python 标准库：https://docs.python.org/zh-cn/3/library/index.html
+ - 标准库以外还存在成千上万并且不断增加的其他组件(从单独的程序、模块、软件包直到完整的应用开发框架)，访问Python包索引即可获取这些第三方包：https://pypi.org/
 
 ### 优点：
  - 解释性语言
