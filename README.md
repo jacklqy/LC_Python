@@ -1,5 +1,5 @@
 # LC_Python
-### 人生苦短，我用python；Python就是一个'万金油'
+### 人生苦短，我用python；Python就是一个'万金油';在python里面一切接对象；
  - Python官网：https://www.python.org/
  - Python 标准库：https://docs.python.org/zh-cn/3/library/index.html
  - 标准库以外还存在成千上万并且不断增加的其他组件(从单独的程序、模块、软件包直到完整的应用开发框架)，访问Python包管理工具pip即可获取这些第三方包：https://pypi.org/
